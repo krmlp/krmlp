@@ -1,7 +1,7 @@
 # Hi! I'm Keremalp 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krmlp&show_icons=true&theme=tokyonight" alt="Keremalp's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krmlp&show_icons=true&theme=tokyonight" />
 </p>
 
 ### 🚀 About Me
@@ -32,7 +32,7 @@ I am currently developing myself in the world of technology while continuing my 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krmlp&theme=tokyonight&area=true" width="100%" />
 </p>
