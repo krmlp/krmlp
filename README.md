@@ -46,7 +46,7 @@ I am currently developing myself in the world of technology while continuing my 
   <a href="https://www.linkedin.com/in/keremalp-arslan-0258832b8/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:keremalparslan0@gmail.com">
+  <a href="mailto:keremalparslan@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
