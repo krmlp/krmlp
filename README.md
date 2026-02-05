@@ -1,7 +1,7 @@
 # Hi! I'm Keremalp 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krmlp&show_icons=true&theme=tokyonight" alt="Keremalp's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krmlp&show_icons=true&theme=tokyonight" />
 </p>
 
 ### 🚀 About Me
@@ -40,10 +40,10 @@ I am currently developing myself in the world of technology while continuing my 
 ### 📡 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/keremalp-arslan-0258832b8/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:keremalparslan@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
