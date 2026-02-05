@@ -1,7 +1,7 @@
 # Hi! I'm Keremalp 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Keremalp+Arslan;Frontend+Developer;Electrical-Electronics+Intern" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=200&section=header&text=Keremalp%20Arslan&fontSize=70&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ I am currently developing myself in the world of technology while continuing my 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields. ://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <br><br>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
