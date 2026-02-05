@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Keremalp+Arslan;Frontend+Developer;Electrical-Electronics+Intern" />
 </p>
 
-
-
 ### 🚀 About Me
 I am currently developing myself in the world of technology while continuing my education on two fronts:
 * 🎓 **Hacı Bayram Veli University** – Philosophy (2025 – Present)
@@ -53,5 +51,5 @@ I am currently developing myself in the world of technology while continuing my 
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krmlp&theme=tokyonight&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krmlp&theme=github&area=true" width="100%" />
 </p>
