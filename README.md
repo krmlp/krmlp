@@ -11,6 +11,17 @@ I am a developer and engineer driven by the curiosity of how systems work, from 
 
 I have a strong passion for **Svelte 5** and **SwiftUI**, believing in their power to build the seamless user interfaces of the future. Whether it's the abstract world of philosophy or the tangible world of electronics, I love making them work together to solve real-world problems.
 
+---
+
+### 🏢 Experience & Organizations
+
+*  **Ubn-Jr** &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/109652360?s=200&v=4" width="25" align="center" />
+*  **OctopOS Prime** &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/156090134?s=200&v=4" width="25" align="center" />
+*  **Posinowa** &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/159883168?s=200&v=4" width="25" align="center" />
+*  **hexaTune LLC** &nbsp;&nbsp; <img src="https://avatars.githubusercontent.com/u/98528401?s=200&v=4" width="25" align="center" />
+
+---
+
 ### 📚 About Me
 I am currently developing myself in the world of technology while continuing my education on two fronts:
 * 🎓 **Hacı Bayram Veli University** – Philosophy (2025 – Present)
