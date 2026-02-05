@@ -4,7 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Keremalp+Arslan;Frontend+Developer;Electrical-Electronics+Intern" />
 </p>
 
-### 🚀 About Me
+### 🚀 Who Am I?
+*"Bridging the gap between philosophical thought and technical execution."*
+
+I am a developer and engineer driven by the curiosity of how systems work, from the logic of code to the physics of circuits. I don't just build applications; I leverage **Artificial Intelligence** as a creative partner to design efficient, human-centric, and high-performance solutions.
+
+I have a strong passion for **Svelte 5** and **SwiftUI**, believing in their power to build the seamless user interfaces of the future. Whether it's the abstract world of philosophy or the tangible world of electronics, I love making them work together to solve real-world problems.
+
+### 📚 About Me
 I am currently developing myself in the world of technology while continuing my education on two fronts:
 * 🎓 **Hacı Bayram Veli University** – Philosophy (2025 – Present)
 * 🎓 **Ankara University** – Management Information Systems (Distance Education, 2025 – Present)
