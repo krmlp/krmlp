@@ -1,6 +1,12 @@
 # Hi! I'm Keremalp 👋
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Keremalp%20Arslan%20|%20Frontend%20Developer%20|%20Electrical-Electronics%20Intern&fontSize=40&animation=fadeIn&fontAlignY=38" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krmlp&show_icons=true&theme=tokyonight" alt="Keremalp's GitHub Stats" />
+</p>
 
 ### 🚀 About Me
 I am currently developing myself in the world of technology while continuing my education on two fronts:
