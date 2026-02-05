@@ -1,5 +1,9 @@
 # Hi! I'm Keremalp 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krmlp&show_icons=true&theme=tokyonight" alt="Keremalp's GitHub Stats" />
+</p>
+
 ### 🚀 About Me
 I am currently developing myself in the world of technology while continuing my education on two fronts:
 * 🎓 **Hacı Bayram Veli University** – Philosophy (2025 – Present)
@@ -13,8 +17,22 @@ I am currently developing myself in the world of technology while continuing my 
 
 ---
 
-### 🛠️ Technical Skills & Stack
-Tools used in my studies and projects:
+### 🛠️ Main Skills & Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-* **Software:** Svelte 5, SwiftUI, Firebase, Python, Git & GitHub
-* **Hardware:** ESP32-S3, PCB Design, Computer Architecture, 3D Mechanical Design
+**Hardware:**
+* 🔌 **ESP32-S3** & **PCB Design**
+* 🏗️ **Computer Architecture** & **3D Mechanical Design**
+
+---
+
+### 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krmlp&theme=tokyonight" width="100%" />
+</p>
