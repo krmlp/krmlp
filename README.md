@@ -1,5 +1,9 @@
 # Hi! I'm Keremalp 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Keremalp+Arslan;Frontend+Developer;Electrical-Electronics+Intern" />
+</p>
+
 
 
 ### 🚀 About Me
