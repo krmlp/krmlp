@@ -1,8 +1,6 @@
 # Hi! I'm Keremalp 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krmlp&show_icons=true&theme=tokyonight" />
-</p>
+
 
 ### 🚀 About Me
 I am currently developing myself in the world of technology while continuing my education on two fronts:
