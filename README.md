@@ -5,7 +5,7 @@
 </p>
 
 ### 🚀 About Me
-I am currently developing myself in the world of technology while continuing my education on İki fronts:
+I am currently developing myself in the world of technology while continuing my education on two fronts:
 * 🎓 **Hacı Bayram Veli University** – Philosophy (2025 – Present)
 * 🎓 **Ankara University** – Management Information Systems (Distance Education, 2025 – Present)
 
@@ -35,9 +35,17 @@ I am currently developing myself in the world of technology while continuing my 
   <img src="https://img.shields.io/badge/SolidWorks-CC1F34?style=for-the-badge&logo=solidworks&logoColor=white" />
 </p>
 
-**Core Hardware Knowledge:**
-* 🔌 **ESP32-S3** & **PCB Design**
-* 🏗️ **Computer Architecture** & **3D Mechanical Design**
+---
+
+### 📡 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/keremalp-arslan-0258832b8/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:keremalparslan@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
